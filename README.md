@@ -15,7 +15,6 @@ This project is intended for **educational purposes only**. You must have explic
   - [Attacker (Receiver) Setup](#attacker-receiver-setup)
   - [Victim (Sender) Setup](#victim-sender-setup)
 - [Usage Instructions](#usage-instructions)
-- [Project Structure](#project-structure)
 - [License](#license)
 - [Disclaimer](#disclaimer)
 
@@ -76,6 +75,8 @@ This project demonstrates a **remote keylogger** that captures keystrokes on a v
    git clone https://github.com/yourusername/remote-keylogger.git
    cd remote-keylogger
 
+###   
+
 ---
 
 ## Usage Instructions
@@ -88,12 +89,14 @@ As keystrokes are captured on the victim machine, they will be transmitted to th
 Stopping the Scripts:
 Press CTRL+C in the terminal where the scripts are running to stop them.
 
+---
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+---
 
 ## Disclaimer
-
-# WARNING: 
+### WARNING: 
 This software is provided for educational purposes only. Use it only on systems you own or where you have explicit permission. The unauthorized use of this software is illegal and unethical. By using this tool, you agree to assume all risks associated with its use and to comply with all applicable laws and regulations.
