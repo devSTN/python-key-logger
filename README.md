@@ -75,8 +75,10 @@ This project demonstrates a **remote keylogger** that captures keystrokes on a v
    ```bash
    git clone https://github.com/yourusername/remote-keylogger.git
    cd remote-keylogger
-   
-##Usage Instructions
+
+---
+
+## Usage Instructions
 
 Start the Attacker Server:
 On the attacker machine, run the attacker_server.py script. This machine will display incoming keystroke logs in real time.
@@ -86,12 +88,12 @@ As keystrokes are captured on the victim machine, they will be transmitted to th
 Stopping the Scripts:
 Press CTRL+C in the terminal where the scripts are running to stop them.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-##Disclaimer
+## Disclaimer
 
-#WARNING: 
+# WARNING: 
 This software is provided for educational purposes only. Use it only on systems you own or where you have explicit permission. The unauthorized use of this software is illegal and unethical. By using this tool, you agree to assume all risks associated with its use and to comply with all applicable laws and regulations.
