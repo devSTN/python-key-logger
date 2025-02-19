@@ -1,7 +1,7 @@
 # Remote Keylogger Project
 
 **Disclaimer:**  
-This project is intended for **educational purposes only**. You must have explicit permission to install and use this tool on any system. Unauthorized use is **illegal** and **unethical**. The author is not responsible for any misuse or damage caused by this software.
+This project is intended for **educational purposes only**. You must have explicit permission to install and use this tool on any system. Unauthorized use is **illegal** and **unethical**. The author is not responsible for any misuse or damage caused by this softwares.
 
 ---
 
