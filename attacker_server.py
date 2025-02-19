@@ -1,5 +1,5 @@
 import socket
-
+#Script for attacker to listen on a specific port.
 # Configuration for the attacker server
 HOST = "0.0.0.0"  # Listen on all available interfaces
 PORT = 9999       # Port to listen on
