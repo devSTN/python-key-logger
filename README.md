@@ -65,7 +65,7 @@ This project demonstrates a **remote keylogger** that captures keystrokes on a v
 
 ---
 
-## Installation & Setup
+## Installation & Setup Guide
 
 ### Attacker (Receiver) Setup
 
